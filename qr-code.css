@@ -51,7 +51,7 @@ body{
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-    width: 20rem;
+    width: 18rem;
     height: auto;
     border-radius: 20px;
     padding: 1rem;
@@ -83,6 +83,7 @@ h2{
 p{
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 2rem;
 }
 
 @media screen and (max-width: 375px) {
